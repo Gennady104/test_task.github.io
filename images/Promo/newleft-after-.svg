@@ -1,0 +1,17 @@
+<svg width="68" height="68" viewBox="0 0 68 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Property 1=Hover" filter="url(#filter0_d)">
+<path d="M12 32C12 19.8497 21.8497 10 34 10C46.1503 10 56 19.8497 56 32C56 44.1503 46.1503 54 34 54C21.8497 54 12 44.1503 12 32Z" fill="#508B8C"/>
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M32.7903 24.3871L32.7071 24.2929C32.3466 23.9324 31.7794 23.9047 31.3871 24.2097L31.2929 24.2929L24.2929 31.2929L24.2515 31.3369L24.1963 31.4047L24.1247 31.5159L24.0712 31.6287L24.0358 31.734L24.0069 31.8819L24 32L24.0028 32.0752L24.0202 32.2007L24.0497 32.3121L24.0937 32.4232L24.146 32.5207L24.2197 32.6254L24.2929 32.7071L31.2929 39.7071C31.6834 40.0976 32.3166 40.0976 32.7071 39.7071C33.0676 39.3466 33.0953 38.7794 32.7903 38.3871L32.7071 38.2929L27.416 33H43C43.5523 33 44 32.5523 44 32C44 31.4477 43.5523 31 43 31H27.414L32.7071 25.7071C33.0676 25.3466 33.0953 24.7794 32.7903 24.3871L32.7071 24.2929L32.7903 24.3871Z" fill="#FAFAFA"/>
+</g>
+<defs>
+<filter id="filter0_d" x="0" y="0" width="68" height="68" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="6"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>
