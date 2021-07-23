@@ -921,7 +921,7 @@ summary{
    
    .promo__content{
       width: 100%;
-      background-color: green;
+      
    }
    .menu-list{
       display: none;
@@ -937,7 +937,7 @@ summary{
 
 @media (max-width: 375px){
    .promo__content{
-      background-color: orange;
+      
    }
    .promo__content-arrows{
       display: none;
